@@ -7,7 +7,7 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Router basename="/sarim1703.github.io">
+    <Router>
       <App />
     </Router>
   </React.StrictMode>
